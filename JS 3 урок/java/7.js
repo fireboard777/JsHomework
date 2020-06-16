@@ -1,0 +1,1 @@
+for(var x = 0; x < 20; x++){ var str = ""; for(var y = 0; y <= x; y++){ str += "*"; } console.log(str); }
